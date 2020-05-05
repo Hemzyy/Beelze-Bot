@@ -1,0 +1,6 @@
+```bash
+"Audio commands ;
+join:         joins a voice channel
+leave:        leaves the voice channel
+play:         plays an audio clip (bruh, clap, laugh, coffin dance)"
+```

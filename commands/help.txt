@@ -1,0 +1,17 @@
+```bash
+"prefix is ;
+server:       server info
+avatar:       sends the avatar link of a user
+ping:         pong!
+invite:       sends the bot invite link
+meme:         sends a dank meme 
+coin:         flips a coin
+dice:         rolls a 6 sided die
+r20:          rolls a 20 sided die
+roast:        roasts someone
+say:          says something
+purge:        deletes a number of messages
+roulette:     1/12 of a chance to kick a member
+kick:         kicks a member
+ban:          bans a member"
+```
