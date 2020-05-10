@@ -27,13 +27,15 @@ client.on('message', async message => {
     if(message.content === ";join"){
         if(message.member.voice.channel){
             const connection = await message.member.voice.channel.join();
-			module.exports = {connection};
+		message.react('✅');
+		module.exports = {connection};
 		}else{
             message.reply('You need to be in a voice channel first.');
         }
     }if(message.content === ";leave"){
 		if(message.member.voice.channel){
 			const disconnection = await message.member.voice.channel.leave();
+			message.react('✅');
 		}else{
 			message.reply('You need to be in a voice channel first.');
 		}
