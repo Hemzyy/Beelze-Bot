@@ -1,4 +1,6 @@
-# Beelze-Bot
+<p align="center">
+  # Beelze-Bot
+  </p>
 
 <p align="center">
   <a href="https://discordbots.org/bot/700119467295768576" >
