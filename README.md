@@ -1,5 +1,5 @@
 <p align="center">
-  # Beelze-Bot
+  <h>Beelze Bot</h1>
   </p>
 
 <p align="center">
