@@ -1,4 +1,6 @@
-<h align ="center">Beelze Bot</h1>
+<h>
+  <p align="center">Beelze Bot</p>
+</h1>
 
 
 <p align="center">
