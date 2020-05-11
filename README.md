@@ -1,5 +1,9 @@
 # Beelze-Bot
 
+<a href="https://discordbots.org/bot/700119467295768576" >
+  <img src="https://discordbots.org/api/widget/status/700119467295768576.svg?noavatar=true" alt="Beelze Bot" />
+</a>
+
 Beelze Bot is small [Discord](https://discord.com/) utility bot 
 
 ## Invitation And Usage
