@@ -1,6 +1,5 @@
-<p align="center">
-  <h>Beelze Bot</h1>
-  </p>
+<h align ="center">Beelze Bot</h1>
+
 
 <p align="center">
   <a href="https://discordbots.org/bot/700119467295768576" >
