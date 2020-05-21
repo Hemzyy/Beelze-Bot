@@ -3,13 +3,8 @@
 
 
 <p align="center">
-  <a href="https://discordbots.org/bot/700119467295768576" >
-    <img href="https://top.gg/api/widget/status/700119467295768576.svg?noavatar=true" />
-  </a>
-  <a href="https://discordbots.org/bot/700119467295768576">
-    <img src="https://discordbots.org/api/widget/servers/700119467295768576.svg?noavatar=true" />
-  </a>
-  </p>
+  <img src="https://top.gg/api/widget/servers/700119467295768576.svg" />
+ </p>
 
 Beelze Bot is small [Discord](https://discord.com/) utility bot that helps kick, ban and delete messages, in addition to some fun commands.
 
