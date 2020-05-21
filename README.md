@@ -3,13 +3,13 @@
 
 
 <p align="center">
-<a href="https://discordbots.org/bot/700119467295768576">
+<a href="https://top.gg/bot/700119467295768576">
   <img src="https://top.gg/api/widget/servers/700119467295768576.svg?noavatar=true" />
 </a>
-<a href="https://discordbots.org/bot/700119467295768576" >
+<a href="https://top.gg/bot/700119467295768576" >
   <img src="https://top.gg/api/widget/status/700119467295768576.svg?noavatar=true" alt="Beelze Bot" />
 </a>
-<a href="https://discordbots.org/bot/700119467295768576" >
+<a href="https://top.gg/bot/700119467295768576" >
   <img src="https://top.gg/api/widget/lib/700119467295768576.svg?noavatar=true" alt="Beelze Bot" />
 </a>
 </p>
