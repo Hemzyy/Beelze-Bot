@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://discordbots.org/bot/700119467295768576" >
-    <img src="https://top.gg/api/widget/status/700119467295768576.svg alt="Beelze Bot" />
+    https://top.gg/api/widget/status/700119467295768576.svg
   </a>
   <a href="https://discordbots.org/bot/700119467295768576">
     <img src="https://discordbots.org/api/widget/servers/700119467295768576.svg?noavatar=true" />
