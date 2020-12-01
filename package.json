@@ -12,6 +12,7 @@
     "@discordjs/opus": "^0.2.1",
     "discord.js": "^12.1.1",
     "ffmpeg-static": "^4.1.1",
-    "snekfetch": "^4.0.4"
+    "snekfetch": "^4.0.4",
+    "express": "^4.17.1"
   }
 }
